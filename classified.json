@@ -1,0 +1,608 @@
+{
+ "sets": [
+  {
+   "offerId": "GRA-00040",
+   "name": "D-Манноза 500 мг + Магний глицинат 450 мг GraFLab, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11454420/picd58aad2ada971e08fd66afc86bd47649/orig"
+  },
+  {
+   "offerId": "GRA-00090",
+   "name": "Берберин GraFLab, для обмена веществ 500 мг, набор 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/5645251/pic03c3349d5c9c9249fe15a8155ec52683/orig"
+  },
+  {
+   "offerId": "GRA-00180",
+   "name": "Берберин GraFLab, для обмена веществ 500 мг, набор 3 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/10254623/pic57d15408525489ae38453043acfc2e2f/orig"
+  },
+  {
+   "offerId": "GRA-08220",
+   "name": "Ежовик гребенчатый капсулы грибы ноотроп для мозга, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/1363210/2a00000199cd38199bbcb3582bb68aebe3ee/orig"
+  },
+  {
+   "offerId": "GRA-00080",
+   "name": "Инозитол  GraFLab для женщин, 2 банки по 60 капсул, для общего укрепления",
+   "fit": 79,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/6382710/2a0000019a24a595c5d0f73e3ce3b1424447/orig"
+  },
+  {
+   "offerId": "GRA-00190",
+   "name": "Инозитол GraFLab для женщин, 3 банки по 60 капсул, для общего укрепления",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13532555/pic4607579a093935378b53a3fe4a19b6b8/orig"
+  },
+  {
+   "offerId": "GRA-00220",
+   "name": "Кверцетин 500 мг GraFLab,  антиоксидант для иммунитета, 3 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12690389/pic657563c8a3a7b8af010efac893f18f36/orig"
+  },
+  {
+   "offerId": "GRA-00150",
+   "name": "Кверцетин 500 мг,  природный антиоксидант,  GraFLab, 2×60 (120 капсул)",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12371766/picd90a5ae56062baa253939797b9447a6a/orig"
+  },
+  {
+   "offerId": "GRA-00070",
+   "name": "Магний хелатный глицинат + B6 GraFLab, 450 мг, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12910470/pic100adfa9f63cdf674e19c2c38b7da16c/orig"
+  },
+  {
+   "offerId": "GRA-04730",
+   "name": "Магний Цитрат + Хелатный Глицинат + L-Треонат GraFLab, 3 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13450068/picafe8b15dad214e0be0a415e5bb935617/orig"
+  },
+  {
+   "offerId": "GRA-00130",
+   "name": "Набор D-Манноза GraFLab (Д-манноза), 500 мг, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/16501424/2a00000199102f97fd453c3d800ab7a8f0c4/orig"
+  },
+  {
+   "offerId": "GRA-00210",
+   "name": "Набор D-Манноза GraFLab, 500 мг – защита МВС, 3 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12540044/pice7fd84daf3467fcfd7659efcbb8feec4/orig"
+  },
+  {
+   "offerId": "GRA-04520",
+   "name": "Набор DMAE 600 мг с витамином B6 GraFLab, 2 упаковки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11550202/pica1afce3c7201dd8c93c1160fcd6acef5/orig"
+  },
+  {
+   "offerId": "GRA-00350",
+   "name": "Набор GraFLab \"Берберин и Холин\", 2 упаковки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/10339897/pic5492a09d6eff33d6a790681b0fa78660/orig"
+  },
+  {
+   "offerId": "GRA-07950",
+   "name": "Набор IQ Коллаген морской в капсулах гидролизованный для суставов, 2 шт по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11469468/picf36d2346639317a5a71838f890b62757/orig"
+  },
+  {
+   "offerId": "GRA-04490",
+   "name": "Набор ZMA комплекс GraFLab, ЗМА Бустер Тестостерона, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/1713519/2a00000195dd31c343c38cc5c2d5d3693e3a/orig"
+  },
+  {
+   "offerId": "GRA-04590",
+   "name": "Набор Биотин + Коллаген UP GraFLab, 120 капсул, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/11370192/2a00000195c2ae2deb77288ce0353093681a/orig"
+  },
+  {
+   "offerId": "GRA-00280",
+   "name": "Набор Куркумин и Морской коллаген Collagen UP GraFLab, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/8608540/pic99f8eb8ffefdafc13f93b9189b38a8f6/orig"
+  },
+  {
+   "offerId": "GRA-00030",
+   "name": "Ресвератрол 200 мг и NMN 500 мг, набор GraFLab, 2 банки по 60 капсул",
+   "fit": 2,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/10335959/pic0d5b5b4248cb44cacf7801c462481734/orig"
+  },
+  {
+   "offerId": "GRA-04481",
+   "name": "Тирозин GraFLab 1240 мг – контроль аппетита, 2 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13108923/picd498ae248d1dcaf94817bcee48317ca2/orig"
+  },
+  {
+   "offerId": "GRA-00170",
+   "name": "Хелатный Глицинат магния GraFLab, набор 3 банки по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13021897/pic6a1518c336d2ea04f14a0a94f230a08a/orig"
+  }
+ ],
+ "singles": [
+  {
+   "offerId": "GRA-08800",
+   "name": "D-Манноза GraFLab, для защиты МВС 500 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1604894/pica5faff288707ff41f9ccb2d98a5035a5/orig"
+  },
+  {
+   "offerId": "GRA-00050",
+   "name": "Dmae GraFLab, ДМАЭ битартрат, ноотроп для мозга, 600 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13013791/pic20e0e3faa2f13d4f856859f5b84bf926/orig"
+  },
+  {
+   "offerId": "GRA-00140",
+   "name": "DMAE и Холин 500 мг – натуральные ноотропы для работы мозга, 120 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/15280435/pic09a7addf549001a2bbad6db1094875b8/orig"
+  },
+  {
+   "offerId": "GRA-04501",
+   "name": "GraFLab, Hema plex железо хелат, хемаплекс, 95 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/16373023/2a000001992964907b53c77bc37916240504/orig"
+  },
+  {
+   "offerId": "GRA-07750",
+   "name": "GraFLab, Артишок экстракт, артишок в капсулах, 550 мг, 60 капсул",
+   "fit": 2656,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/14333997/pic3bf12e6ea77d3a1f098bd5e5f6a850ca/orig"
+  },
+  {
+   "offerId": "GRA-07760",
+   "name": "GraFLab, Железо фумарат, Iron 50 мг, 60 капсул, Железо витамины",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/10231887/2a00000195627b41b7c58c87171849dc2858/orig"
+  },
+  {
+   "offerId": "GRA-07780",
+   "name": "GraFLab, Мультивитамины для женщин, Биотин для волос витамины, 60 капсул",
+   "fit": 500,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/7979606/2a00000195dc4d1fea16898b082848426b40/orig"
+  },
+  {
+   "offerId": "GRA-07910",
+   "name": "IQ Collagen умный комплекс,  Гидролизованный коллаген морской в капсулах для суставов, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12219182/pic6b0bb97f67faba26edf3df4cdf36c184/orig"
+  },
+  {
+   "offerId": "GRA-00270",
+   "name": "L-Лизин 1320 мг GraFLab,  аминокислота для иммунитета и кожи, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1586116/pic95eb81d4a57d933f5341d66a043f1459/orig"
+  },
+  {
+   "offerId": "GRA-07890",
+   "name": "L-Теанин + Магний b6, l-theanine 1180 мг от GraFLab, 60 капсул",
+   "fit": 494,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/15382267/pic2f87ba4825d69fafdf435f5fb0cba025/orig"
+  },
+  {
+   "offerId": "GRA-04421",
+   "name": "L-тирозин, для похудения GraFLab, 1240 мг, капсулы, 60 штук в упаковке",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1588570/piceaaa6a808b01c55200f2c531af091583/orig"
+  },
+  {
+   "offerId": "GRA-08120",
+   "name": "NAC, N-ацетилцистеин (Acetyl Cysteine) GraFLab, 1200 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/15330455/pic9827d0b0842dcb8ba735b303eddeb219/orig"
+  },
+  {
+   "offerId": "GRA-07700",
+   "name": "NMN 500 мг, Никотинамид мононуклеотид (NMN), GraFLab, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11405539/pic2802b1f07a2410b124ae5a29b44b4c91/orig"
+  },
+  {
+   "offerId": "GRA-01301",
+   "name": "ZMA комплекс GraFLab, ЗМА бустер тестостерона, капсулы, 60 штук",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/5220030/2a00000195ea6863415501d5a855e5b7dc73/orig"
+  },
+  {
+   "offerId": "GRA-04460",
+   "name": "Аргинин GraFLab, естественная энергия для спортсменов, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/172106/pic648fe16ceb8769311fbe0b9f04520e31/orig"
+  },
+  {
+   "offerId": "GRA-04570",
+   "name": "Астаксантин GraFLab, природный антиоксидант, 20 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/228937/pic390e5fd25673c438420b059c7de31fe9/orig"
+  },
+  {
+   "offerId": "GRA-04511",
+   "name": "Ацетил l Карнитин GraFLab (L-Carnitine) 1200 мг, капсулы, 60 шт",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13018031/pic94b48b3b1e8d37851ab47bcfead02742/orig"
+  },
+  {
+   "offerId": "GRA-04510",
+   "name": "Ацетил L-Карнитин 1200 мг GraFLab,  для энергии, мозга и метаболизма, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/16658825/2a000001982c5f3f4a95799f9f1b6f54787a/orig"
+  },
+  {
+   "offerId": "GRA-08080",
+   "name": "Бенфотиамин + Альфа липоевая кислота + Теанин комплекс, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12381075/picefab4d0b0450970b1be751fcd9deb966/orig"
+  },
+  {
+   "offerId": "GRA-07502",
+   "name": "Берберин GraFLab для похудения и метаболизма, 500мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1625971/picd41eb5c5e7f7019052f472bd9f0b00d7/orig"
+  },
+  {
+   "offerId": "GRA-04620",
+   "name": "Берберин с Куркумином GraFLab, обмен веществ 50 мг + 350 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/5885782/pica355497fda1bc2d50eab9b336b8177d1/orig"
+  },
+  {
+   "offerId": "GRA-07840",
+   "name": "Биотин + Коллаген + Гиалуроновая кислота GraFLab, 180 капсул",
+   "fit": 1,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13211265/picd71afdd1c05d5af701bd25145d7dcf17/orig"
+  },
+  {
+   "offerId": "GRA-07301",
+   "name": "Биотин GraFLab Biotin, для кожи, волос, ногтей, 10 000 мкг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/16488918/2a0000019a24b38f85fdd2a26cfab28a4c8e/orig"
+  },
+  {
+   "offerId": "GRA-08110",
+   "name": "Витамин Д3 К2, d3 k2 полноценный комплекс на 4 месяца приёма",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11798708/pic6d75d562f36f1e397101203d97cb6894/orig"
+  },
+  {
+   "offerId": "GRA-08140",
+   "name": "Гинкго билоба в капсулах + Готу Кола для мозга и памяти, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/6250899/pic81787fcd3c2187be988422351c3ff394/orig"
+  },
+  {
+   "offerId": "GRA-04550",
+   "name": "Глицин 840 мг и Холин 305 мг + Витамин В6 GraFLab, 60 капсул",
+   "fit": 1,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11486875/pic610a7ebd12bc6317992bd175e1411557/orig"
+  },
+  {
+   "offerId": "GRA-04630",
+   "name": "Дигидрокверцетин GraFLab – мощный антиоксидант, 120 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11484560/pic80c516276512ef8aa48c1dfabe4de3a4/orig"
+  },
+  {
+   "offerId": "GRA-07810",
+   "name": "Ежовик гребенчатый GraFLab, ноотроп для мозга и памяти, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1902637/pic564290d95de22641455a220c9d9689e4/orig"
+  },
+  {
+   "offerId": "GRA-08090",
+   "name": "Индол 3 карбинол GraFLab, лецитин подсолнечный, капсулы, 60 штук",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12971407/pic5a1590caa83a226c8ee6577cdbd2be61/orig"
+  },
+  {
+   "offerId": "GRA-01500",
+   "name": "Инозитол GraFLab для женщин 1200мг, 60капсул,  для общего укрепления",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/6021055/pica0f5792b9f5a8c1b91c3109202b2f950/orig"
+  },
+  {
+   "offerId": "GRA-08200",
+   "name": "Инозитол с Холином GraFLab 500 мг, поддержка когнитивных функций, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1885123/pic31e6e78f42beb3573fbb7238a076ac80/orig"
+  },
+  {
+   "offerId": "GRA-01502",
+   "name": "Инозитол+Магний В6, GraFLab, БАД, капсулы, 120шт, для общего укрепления",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12403610/pic6a7ea8d9be5632d3c20d53591959d023/orig"
+  },
+  {
+   "offerId": "GRA-08160",
+   "name": "Калий Магний + Коэнзим Q10, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/14706361/2a000001968b8f61dc6718c6842fb3cfee04/orig"
+  },
+  {
+   "offerId": "GRA-08050",
+   "name": "Карнозин 550 мг GraFLab,  антивозрастной комплекс и антиоксидант, 60 капсул",
+   "fit": 97,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12613046/picaf4a614f31b38a34ccdac0d48611e872/orig"
+  },
+  {
+   "offerId": "GRA-04401",
+   "name": "Кверцетин + Монолаурин GraFLab, для иммунитета, 500 мг, 120 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/3912211/2a00000195a3c5eb1f2ce2f79e5de6835c57/orig"
+  },
+  {
+   "offerId": "GRA-04400",
+   "name": "Кверцетин 500 мг + Монолаурин 500 мг , GraFLab комплекс для иммунитета, 120 капсул",
+   "fit": 0,
+   "picture": "https://cdn1.ozone.ru/s3/multimedia-1-4/7361780512.jpg"
+  },
+  {
+   "offerId": "GRA-08001",
+   "name": "Кверцетин GraFLab Quercetin, антиоксидант для иммунитета, 500 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11477949/picd5a0caac340c0f5f81521cfa79a39adb/orig"
+  },
+  {
+   "offerId": "GRA-08000",
+   "name": "Кверцетин GraFLab, поддержка иммунитета, 500 мг, капсулы, 60 штук",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/15284069/2a00000198889367b1679bd75bcbd37de5d2/orig"
+  },
+  {
+   "offerId": "GRA-08170",
+   "name": "Келп (Ламинария японская), органический йод GraFlab, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13234570/pic5102b8c42376b3ac1856ee2531a965e0/orig"
+  },
+  {
+   "offerId": "GRA-00011",
+   "name": "Коллаген морской GraFLab, collagen up, 3500 мг, капсулы, 60 штук",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/12277996/2a000001957ffe5f573ab8eaf193d9801446/orig"
+  },
+  {
+   "offerId": "GRA-07770",
+   "name": "Колострум 500 мг + Лактоферрин 200 мг  GraFLab,  иммунный комплекс, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13155801/pic15fbfab83b485c6e398dfb0a544dd477/orig"
+  },
+  {
+   "offerId": "GRA-07850",
+   "name": "Комплекс GraFLab \"5-HTP с экстрактом Валерианы\", капсулы, 60 шт.",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/5888878/picb04a4a70d627f8b0287bd106d4a6c06e/orig"
+  },
+  {
+   "offerId": "GRA-07960",
+   "name": "Комплекс L-Карнозин  и Ресвератрол GraFLab, витамины для кожи, волос, ногтей, 60 капсул",
+   "fit": 50,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12944962/pice7fcf4cd06b95cec02ddba988403f3e3/orig"
+  },
+  {
+   "offerId": "GRA-07940",
+   "name": "Комплекс для печени GRAFLAB Силимарин, расторопша, артишок, капсулы, 60 шт.",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/9234612/picd3e0c9b02594509641144cdd900e5e82/orig"
+  },
+  {
+   "offerId": "GRA-08040",
+   "name": "Комплекс Лютеин с зеаксантином для глаз GraFLab, капсулы, 60 штук",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11909301/picc50197e4c51aadb9ecd5e10484bec4ab/orig"
+  },
+  {
+   "offerId": "GRA-07920",
+   "name": "Комплекс триптофан и 5-HTP GraFLab, для здорового сна и спокойствия, 120 капсул",
+   "fit": 37,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11406929/pic9fa28b6aa1fd20075dc3930c32cb3bff/orig"
+  },
+  {
+   "offerId": "GRA-08070",
+   "name": "Коэнзим q10 убихинон с Витаминами Е и С coenzyme q10 GraFLab",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/4340498/pic6fb8c7133137b4f1eda4c4b88464e912/orig"
+  },
+  {
+   "offerId": "GRA-04430",
+   "name": "Куркумин с пиперином и гингеролом от GraFLab, 550мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/8153960/picb667b8fc40d7e28db3f41f29029469d7/orig"
+  },
+  {
+   "offerId": "GRA-00120",
+   "name": "Лактоферрин 500 мг GraFLab (lactoferrin) для иммунитета и микрофлоры , 120 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12849477/pic20a569d5b25776b587d5e691c5e6f55a/orig"
+  },
+  {
+   "offerId": "GRA-07800",
+   "name": "Лактоферрин GraFLab (lactoferrin), поддержка иммунитета, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/5031100/2a0000019a5ce7ed79d6c3365e29199e9efc/orig"
+  },
+  {
+   "offerId": "GRA-00240",
+   "name": "Лактоферрин GraFLab 500 мг (lactoferrin), для иммунитета и микрофлоры,180 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1631551/pic88850557cce9c3a5fc566f523944e250/orig"
+  },
+  {
+   "offerId": "GRA-04610",
+   "name": "Магний L-Треонат 400 мг нейропротектор от GraFLab,  60 капсул",
+   "fit": 476,
+   "picture": "https://cdn1.ozone.ru/s3/multimedia-1-q/7359581762.jpg"
+  },
+  {
+   "offerId": "GRA-08240",
+   "name": "Магний В6 Хелат(Бисглицинат)+Цитрат+Малат от стресса для сна",
+   "fit": 156,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/4606111/pic5aa59a3901aa541a3d7f0463aa6bec34/orig"
+  },
+  {
+   "offerId": "GRA-04600",
+   "name": "Магний Цитрат GraFLab, поддержка здоровья, D3 400 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://cdn1.ozone.ru/s3/multimedia-1-d/7359574657.jpg"
+  },
+  {
+   "offerId": "GRA-07790",
+   "name": "Метилфолат GraFLab (фолиевая кислота) 800мкг с витамином B12+P5P, 60 капсул",
+   "fit": 0,
+   "picture": "https://cdn1.ozone.ru/s3/multimedia-1-l/7350467853.jpg"
+  },
+  {
+   "offerId": "GRA-00060",
+   "name": "Морской коллаген Collagen Up 3500 мг GraFLab – с гиалуроновой кислотой и витамином С, 180 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/169403/pic6b4de455544fbe7ef4777821549cae4c/orig"
+  },
+  {
+   "offerId": "GRA-08060",
+   "name": "Наттокиназа Nattokinase 5500 FU + Серрапептаза 40000 SPU, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/226074/picb39f7455ddb6b8b31094314d7e1fd2ae/orig"
+  },
+  {
+   "offerId": "GRA-06710",
+   "name": "Ноотропный комплекс 60 капс., для мозга, для умственной активности",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12375943/picf3e465738783ad98107e42a6412d8566/orig"
+  },
+  {
+   "offerId": "GRA-00020",
+   "name": "Орнитин GraFLab для поддержки метаболизма,  400 мг,  60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/15296236/pic6043e5a056f022ebcad89eac26bd4942/orig"
+  },
+  {
+   "offerId": "GRA-00230",
+   "name": "Ресвератрол 200 мг GraFLab, натуральный антиоксидант, 180 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/9235999/pic9526dac8dca04f75eaaf88411fc836e4/orig"
+  },
+  {
+   "offerId": "GRA-00110",
+   "name": "Ресвератрол GraFLab 200 мг,  натуральный антиоксидант, 120 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/16111726/2a0000019a24b42093dde6a6e2c16e7b5fe0/orig"
+  },
+  {
+   "offerId": "GRA-01401",
+   "name": "Ресвератрол GraFLab 200 мг, для поддержки организма, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/210814/pic63bdc371a243aaf5a7da28ed8ea93fed/orig"
+  },
+  {
+   "offerId": "GRA-07403",
+   "name": "Рибофлавин GraFLab (Витамин B2) поддержка организма, 500 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/13018509/pica25b3c6f6f5ebc8fbc01accfc54d2789/orig"
+  },
+  {
+   "offerId": "GRA-08230",
+   "name": "Розмариновая кислота в капсулах с Витамином С GraFLab, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/11318716/2a00000195e71a630bd347b0063e3f7bedde/orig"
+  },
+  {
+   "offerId": "GRA-08150",
+   "name": "Селен + Цинк GrafLab, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/1852670/pice28832ec74d968c15f84443614ed2c9e/orig"
+  },
+  {
+   "offerId": "GRA-00250",
+   "name": "Серрапептаза 40 000 SPU GraFLab, фермент для иммунитета, 180 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/225310/picbf2314e9f488ac6e7b6245a61f03ea39/orig"
+  },
+  {
+   "offerId": "GRA-00160",
+   "name": "Серрапептаза 40000 SPU GraFLab, укрепление иммунитета,120 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11444127/picae5038824c4da62f257aafd80ed388af/orig"
+  },
+  {
+   "offerId": "GRA-00403",
+   "name": "Серрапептаза 40000 SPU GraFLab, фермент для иммунитета, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12441892/pic5798d9de3eaae124f05e8655b5e0b9b0/orig"
+  },
+  {
+   "offerId": "GRA-07830",
+   "name": "Спрей для объема GraFLab – солевой текстурайзер для прикорневого объема и текстуры волос,  100 мл",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12256576/pic0ebbbeaca99317af2f832f1ecb0c12b8/orig"
+  },
+  {
+   "offerId": "GRA-06983_1",
+   "name": "Таурин 600 мг GraFLab,  аминокислота для энергии и мозга, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12192789/picb073daf67811a57ce3286a0f658c7ade/orig"
+  },
+  {
+   "offerId": "GRA-06984",
+   "name": "Таурин с кофеином, комплекс для бодрости, GraFLab, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/16413278/2a0000019933548bb218592442450c322e47/orig"
+  },
+  {
+   "offerId": "GRA-00694",
+   "name": "Фосфатидилсерин 510 мг, для памяти и концентрации, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/8771940/pica0682c7ea7b98e7911f5a4bf27b3dc41/orig"
+  },
+  {
+   "offerId": "GRA-04500",
+   "name": "Хелатное железо Hema Plex – 95 мг GraFLab, 60 капсул в упаковке",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12800894/pic4d4f20b43abce4e954aa0a5efd16f6d8/orig"
+  },
+  {
+   "offerId": "GRA-04580",
+   "name": "Хлорофилл жидкий натуральный с мятой спрей, для обмена веществ GraFLab, 50 мл",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12385304/pic617833bed6f4a885e3d1886e4c742489/orig"
+  },
+  {
+   "offerId": "GRA-07740",
+   "name": "Хлорофилл жидкий натуральный с яблочным пектином, для обмена веществ GraFLab",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-mpic/15282130/2a00000199f116d6f9f84cef93d17dd27e18/orig"
+  },
+  {
+   "offerId": "GRA-04560",
+   "name": "Цеолит пищевой GraFLab антиоксидант, 500 мг, капсулы, 60 штук",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/5464049/picb8fd2edc9533706cceb83f7a619aaa70/orig"
+  },
+  {
+   "offerId": "GRA-08210",
+   "name": "Энергетический напиток GraFLab, энергетик без сахара 400 мл, спортивная вода",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/14449116/picc4e7aee0bb3956786bc42d2d8bf1dd37/orig"
+  },
+  {
+   "offerId": "GRA-04450",
+   "name": "Янтарная кислота GraFLab, очищение организма, 1000 мг, 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/12403866/pice38493639135ac7a4b38823a4e9203fb/orig"
+  }
+ ],
+ "ambiguous": [
+  {
+   "offerId": "GRA-02000",
+   "name": "Берберин и Пиколинат хрома GraFLab, для похудения, по 60 капсул",
+   "fit": 0,
+   "picture": "https://avatars.mds.yandex.net/get-marketpic/11444614/pic4d36cd9b952dc2034e464f4c5f08171c/orig"
+  }
+ ]
+}
